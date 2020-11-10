@@ -1,7 +1,8 @@
 {
   "name": "easy-polling",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
+  "keywords": ["polling", "poll", "poller", "async","interval", "wait"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
