@@ -2,7 +2,7 @@
 
 Easy-polling aims to achieve one simple and pure task:\
 Check result of an asynchronous task until the result matched required criteria.\
-This process is so called "polling" or "poll"!.\
+This process is so called "polling" or "poll"!.
 
 ## Get Started
 
