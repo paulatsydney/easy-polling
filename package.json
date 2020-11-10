@@ -1,8 +1,12 @@
 {
   "name": "easy-polling",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "",
   "keywords": ["polling", "poll", "poller", "async","interval", "wait"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulatsydney/easy-polling"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

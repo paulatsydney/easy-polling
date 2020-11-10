@@ -6,7 +6,7 @@ This process is so called "polling" or "poll"!.
 
 ## Get Started
 
-Easy polling, easy to start~
+Easy polling, easy to start~\
 Hope you read below code snippet like a newspaper.:)
 
 ```js
